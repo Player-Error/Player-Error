@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Player-Error
 - 👀 I’m interested in softwareProgramming
-- 🌱 I’m currently learning C# And Html
+- 🌱 I’m currently learning C# And Html/CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
